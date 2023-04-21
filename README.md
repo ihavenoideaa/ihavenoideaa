@@ -5,5 +5,12 @@
 Find fun:
 
 - 🏠 My home page [**www.xzgljiang.com**](https://www.xzgljiang.com/)
-- 📔 My blog [**www.xzgljiang.com**](https://blog.xzgljiang.com/)
+- 📔 My blog [**blog.xzgljiang.com**](https://blog.xzgljiang.com/)
 
+Contact me:
+
+- 💬 Message board [**www.xzgljiang.com/message**](https://www.xzgljiang.com/message/)
+
+Other:
+
+- 👁️‍🗨️ My service monitoring website [**Uptime-Kuma**](https://uptime.status.xzgljiang.com/status/server)
