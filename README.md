@@ -9,7 +9,8 @@ Find fun:
 
 Contact me:
 
-- 💬 Message board [**www.xzgljiang.com/message**](https://www.xzgljiang.com/message/)
+- 💬 Via Message board [**www.xzgljiang.com/message**](https://www.xzgljiang.com/message/)
+- 📧 Via Email [**My Email**](mailto:linxzgl@gmail.com)
 
 Other:
 
