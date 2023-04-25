@@ -4,12 +4,13 @@
 
 Find fun:
 
-- 🏠 My home page [**www.xzgljiang.com**](https://www.xzgljiang.com/)
-- 📔 My blog [**blog.xzgljiang.com**](https://blog.xzgljiang.com/)
+- 🏠 My Home Page [**www.xzgljiang.com**](https://www.xzgljiang.com/)
+- 📔 My Blog [**blog.xzgljiang.com**](https://blog.xzgljiang.com/)
+- 🍀 My Other Repositories [**Gitea**](https://git.work.xzgljiang.com/xzgl)
 
 Contact me:
 
-- 💬 Via Message board [**www.xzgljiang.com/message**](https://www.xzgljiang.com/message/)
+- 💬 Via Message Board [**www.xzgljiang.com/message**](https://www.xzgljiang.com/message/)
 - 📧 Via Email [**My Email**](mailto:linxzgl@gmail.com)
 
 Other:
