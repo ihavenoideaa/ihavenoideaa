@@ -4,15 +4,9 @@
 
 Find fun:
 
-- 🏠 My Home Page [**www.xzgljiang.com**](https://www.xzgljiang.com/)
-- 📔 My Blog [**blog.xzgljiang.com**](https://blog.xzgljiang.com/)
-- 🍀 My Other Repositories [**Gitea**](https://git.work.xzgljiang.com/xzgl)
+- 📔 My Blog [**blog.reverier16.com**](https://blog.reverier16.com/)
 
 Contact me:
 
-- 💬 Via Message Board [**www.xzgljiang.com/message**](https://www.xzgljiang.com/message/)
 - 📧 Via Email [**My Email**](mailto:linxzgl@gmail.com)
 
-Other:
-
-- 👁️‍🗨️ My service monitoring website [**Uptime-Kuma**](https://uptime.status.xzgljiang.com/status/server)
